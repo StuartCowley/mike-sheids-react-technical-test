@@ -38,7 +38,7 @@ You can view the deployed application here: https://mike-shields-dev.github.io/r
 - [uuid](https://www.npmjs.com/package/uuid) for generating unique `key` props when rendering lists
 - [react-responsive-masonry](https://www.npmjs.com/package/react-responsive-masonry) for handling the layout of the search result images
 
-## Wish List 
+### Wish List 
 
 - Reset the textbox value after search has been submitted 
 - Display a title with the search query above the search result images
