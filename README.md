@@ -27,7 +27,7 @@ You may use this asset for your application: https://cdn.cnn.com/cnnnext/dam/ass
 
 ## Outcome
 
-You can view the deployed application here: https://mike-shields-dev.github.io/react-technical-test/
+You can view the deployed application [here](https://mike-shields-dev.github.io/react-technical-test/)
 
 ### Technologies Used
 - [React](https://reactjs.org/), bootstrapped from [Create React App](https://github.com/facebook/create-react-app) for the UI
