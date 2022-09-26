@@ -1,0 +1,17 @@
+.app {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: var(--white-space);
+}
+
+header {
+  max-width: 300px;
+  width: 100%;
+}
+
+.nasa-logo {
+  margin-top: calc(var(--white-space) / 4);
+  width: 100%;
+}

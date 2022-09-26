@@ -1,0 +1,13 @@
+.no-results {
+  margin-top: 1rem;
+}
+
+.search-results {
+  margin-top: var(--white-space);
+  width: 100%;
+  max-width: 900px;
+}
+
+.search-results__image {
+  border-radius: var(--border-rad);
+}
